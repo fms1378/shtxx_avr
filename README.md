@@ -1,5 +1,5 @@
 # SHTxx_AVR
-Run SHTxx On AVR with CodeVisionAVR, 
+Run SHTxx On AVR with CodeVisionAVR + Proteus Simulation, 
 Shows Temperature and Humidity on 2*16 Character LCD
 
 **Usage:**.
